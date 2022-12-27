@@ -1,4 +1,4 @@
-# premier-depot ... car nous sommes novices sur GitHub.
+# Nous sommes novices sur GitHub.
 
 Premier essai de dépôt des fichiers du système Aciah-linux.
 
